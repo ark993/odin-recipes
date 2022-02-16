@@ -11,3 +11,4 @@ What I did so far:
 6. Created a page for Chocolate Brownie, copied format from SFR and replaced the details, added gifs and images and linked it in index.html
 7. Created a page for Mushroom n Swiss burger, copied format filled in details, added gifs and images and linked it in index.html.
 8. Created "Return to homepage" and "Credits" links for each recipe page.
+9. Created a styles.css sheet for index.html, added some pizzazz. Updated the homepage contents to suit the new style.
