@@ -50,3 +50,11 @@ ul a {
     height: 500px;
 
 }
+
+.food {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 600px;
+}
